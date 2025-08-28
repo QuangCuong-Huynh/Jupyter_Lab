@@ -10,4 +10,4 @@ Insert code and markdown cells
 Share your notebook through GitHub
 
 Author: 
-# Quang Cuong Huynh
+# Cuong Huynh
